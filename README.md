@@ -1,7 +1,5 @@
 # HR_DATASET
 
-# LITA_SALES_PROJECT
-
 [PROJECT OVERVIEW FOR SALES TRANSACTIONS](#project-overview-for-sales-transactions)
 
 [DATA SOURCE](#data-source)
