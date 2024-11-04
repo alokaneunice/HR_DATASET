@@ -40,6 +40,7 @@ The data used was provided by the Incubator Hub for LITA project. LITA is an acr
 
 ![HRDATADASHBOARD](https://github.com/user-attachments/assets/bf8d80cc-c9d1-4d8f-a258-075354f87abe)
 
+![HRDATA DASHBOARD2png](https://github.com/user-attachments/assets/c9cce02e-8074-4b13-8c12-89b651e2e3e7)
 
 ### PIVOT TABLES
 
